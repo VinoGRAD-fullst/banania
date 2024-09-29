@@ -117,7 +117,7 @@ input[type=”text” i]{
             border-radius: 9%;
         }
 
-         </style>
+    </style>
     </head>
 
 <header>
