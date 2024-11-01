@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>QUATTRIK</title>
+  <link rel="stylesheet" href="hate.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <div class="header__inner">
+        <a class="logo" href="#">quAttRiK</a>
+         <nav class="menu">
+          <ul class="menu__list">
+            <li class="menu__list-item">
+              <a class="menu__list-link" href="#">ViP</a>
+            </li>
+            <li class="menu__list-item">
+              <a class="menu__list-link" href="#">Знакомства</a>
+            </li>
+            <li class="menu__list-item">
+              <a class="menu__list-link" href="#">Общение</a>
+            </li>
+            <li class="menu__list-item">
+              <a class="menu__list-link" href="#">Культура</a>
+            </li>
+            <li class="menu__list-item">
+              <a class="menu__list-link" href="#">О нас</a>
+            </li>
+          </ul>
+         </nav>
+      </div>
+    </div>
+  </header>
+  <div></div>
+</body>
